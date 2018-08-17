@@ -1,1 +1,3 @@
-This is the file, welcome to the kitchen
+This is the file, welcome to the github
+1. add a code
+2. commit the code
